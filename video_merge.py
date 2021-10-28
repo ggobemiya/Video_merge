@@ -3,6 +3,8 @@ import cv2
 import numpy as np
 import sys
 
+#두 비디오를 이어붙이는 파일
+
 #input
 #폴더 경로
 video_path = 'C:/Users/KMS/Documents/Coding/videosum/video_merge/'
